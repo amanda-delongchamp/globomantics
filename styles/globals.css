@@ -24,3 +24,12 @@ a {
     background: black;
   }
 }
+
+.themeFontColor {
+  color: coral;
+}
+
+tr {
+  cursor: pointer;
+}
+
